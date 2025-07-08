@@ -20,7 +20,6 @@ export default function Navbar() {
       <nav className="flex space-x-6">
         <Link href="/" className="text-white hover:underline">Home</Link>
         <Link href="/apply" className="text-white hover:underline">Application</Link>
-        <Link href="/admin" className="text-white hover:underline">Admin</Link>
         <Link href="/members" className="text-white hover:underline">Members</Link>
       </nav>
     </header>
